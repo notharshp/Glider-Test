@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: white;
+}
+
+.glider {
+    align-content: center;
+    height: 1000vh;
+    width: 75vw;
+    background: yellow;
+}
+
+/* .glide__slide {
+    background: green;
+}
+
+.glide__slide img {
+
+    height: 150px;
+    width: 300px;
+} */
